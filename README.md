@@ -6,3 +6,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veudal/veudal/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veudal/veudal/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+[](https://github-readme-stats.vercel.app/api?username=veudal&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
